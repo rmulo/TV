@@ -1,7 +1,7 @@
-﻿#EXTM3U
+#EXTM3U
 
 
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Canais de Filmes e Seies",Max Prime
+#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="Canais de Filmes e Series",Max Prime
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/79.m3u8
 
 #EXTINF:0 tvg-logo="https://www.redesat.com.br/uploads/canal_1421442391.png" group-title="Canais de Filmes e Series",Max Up
@@ -126,3 +126,185 @@ https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/117.
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS DE DESENHOS",Discovery Kids
 https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/111.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Band Sports
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/34.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Combate
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/77.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere Clube
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/44.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 9
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/43.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 8
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/42.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 7
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/41.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 6
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/40.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 5
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/39.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 4
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/38.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 3
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/37.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/36.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Premiere FC 1
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/35.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Espn Extra
+Adicione Aqui o Link do Canal
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Espn+
+Adicione Aqui o Link do Canal
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Espn Brasil
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/32.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Espn
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/30.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Esporte Intera brasil
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Esporte Intera 2
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Esporte Intera
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Fox Sports 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/29.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Fox Sports
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/28.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Sportv 3
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/27.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Sportv 2
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/26.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",Sportv
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/25.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE ESPORTES",All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1192655349.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",Nat Geo Wild
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/113.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/112.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY WORLD
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/110.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY TURBO
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/109.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY THEATER
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/108.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY SCIENCE
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/107.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY HOME AND HEALTH
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/106.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/105.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",DISCOVERY CHANNEL
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/104.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",H2
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/103.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",HISTORY
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/102.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/115.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE DOCUMENTÁRIOS",ANIMAL PLANET
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/101.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE MÚSICA",VH1
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/84.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE MÚSICA",BIS
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/94.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE MÚSICA",MULTISHOW
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/86.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE MÚSICA",MTV
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/87.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Band News
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/98.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Record News
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/100.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Globo News
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/97.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Arte 1
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/96.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Curta!
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/92.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Fish TV
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/91.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Food Network
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/90.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Canal Off
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/99.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Comedy Central
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/93.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",E!
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/95.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",GNT
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/89.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",TBS
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/85.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Woohoo
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/83.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Viva
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/82.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Globosat
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/81.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",TLC
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/71.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Fox Life
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/64.m3u8
+
+#EXTINF:0 tvg-logo="Link da Imagem" group-title="CANAIS DE VARIEDADES",Syfy
+https://www.assistirtvonlinegratis.com.br:25463/live/Bolsonaro2018/EuVoto17/60.m3u8
+
+
